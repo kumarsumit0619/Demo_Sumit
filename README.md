@@ -1,1 +1,1 @@
-# Demo_Sumit
+SQL queries
